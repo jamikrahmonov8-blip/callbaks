@@ -20,7 +20,7 @@
 //   console.log(get([1,2,3,4,5]));
 
 // function get(arr)
-// {
+// {    
 //     let res = []
 //     return arr.filter((elem) => {
 //         return elem % 2
