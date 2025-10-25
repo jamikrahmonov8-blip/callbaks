@@ -5,8 +5,8 @@
   пример 
   ```js
   let odam= {
-    name: "jamshed", //1 kimat 
-    age:16, //2 kimat 
+    name: "jamshed", 
+    age:16, 
     location: "Dushanbe",
     number : {
         bab:"90818282",
